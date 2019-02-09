@@ -1,0 +1,40 @@
+{
+    "name": "baumfreunde-md-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "start:dev": "NODE_ENV=development nodemon app.js",
+        "start-web:dev": "NODE_ENV=development PROCESS_TYPE=web nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JensWinter/baumfreunde-md-server.git"
+    },
+    "author": "Jens Winter",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JensWinter/baumfreunde-md-server/issues"
+    },
+    "homepage": "https://github.com/JensWinter/baumfreunde-md-server#readme",
+    "engines": {
+        "node": "^8.10.0"
+    },
+    "devDependencies": {
+        "@types/express": "^4.16.1",
+        "@types/mongodb": "^3.1.19",
+        "nodemon": "^1.18.9"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "cors": "^2.8.5",
+        "dotenv": "^6.2.0",
+        "express": "^4.16.4",
+        "lodash": "^4.17.11",
+        "moment": "^2.24.0",
+        "mongodb": "^3.1.13",
+        "morgan": "^1.9.1",
+        "winston": "^3.2.1"
+    }
+}
