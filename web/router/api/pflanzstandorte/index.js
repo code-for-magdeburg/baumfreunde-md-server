@@ -38,7 +38,7 @@ module.exports = (config, db) => {
 
         db
             .collection('pflanzstandorte')
-            .find({})
+            .find({ removed: false })
             .toArray()
             .then(pflanzstandorte => res.json(pflanzstandorte))
             .catch(err => res.status(500).send(err));
