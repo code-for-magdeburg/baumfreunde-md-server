@@ -3,7 +3,7 @@ const MongoClient = require('mongodb').MongoClient;
 
 
 MongoClient
-    .connect(config.database.url, { useNewUrlParser: true })
+    .connect(config.database.url, { useNewUrlParser: true, useUnifiedTopology: true })
     .then(client => {
 
         const app = require('./server')(config, client.db(config.database.name));
