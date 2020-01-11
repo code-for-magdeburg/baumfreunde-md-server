@@ -18,7 +18,8 @@ module.exports = (config, db) => {
             { _id: 2016, total: _.sumBy(nachpflanzungen.Nachpflanzungen2016, 'anzahl') },
             { _id: 2017, total: _.sumBy(nachpflanzungen.Nachpflanzungen2017, 'anzahl') },
             { _id: 2018, total: _.sumBy(nachpflanzungen.Nachpflanzungen2018, 'anzahl') },
-            { _id: 2019, total: _.sumBy(nachpflanzungen.Nachpflanzungen2019, 'anzahl') }
+            { _id: 2019, total: _.sumBy(nachpflanzungen.Nachpflanzungen2019, 'anzahl') },
+            { _id: 2020, total: _.sumBy(nachpflanzungen.Nachpflanzungen2020, 'anzahl') }
         ]);
 
     });
