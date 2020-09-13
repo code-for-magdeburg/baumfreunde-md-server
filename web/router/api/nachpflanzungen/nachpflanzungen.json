@@ -1573,7 +1573,7 @@
         },
         {
             "objekt": "Altenhäuser Straße",
-            "anzahl": 8,
+            "anzahl": 7,
             "bezeichnungBotanisch": "Ostrya carpinifolia",
             "bezeichnungDeutsch": "Hopfenbuche"
         },
@@ -1705,7 +1705,7 @@
         },
         {
             "objekt": "Buschfeldstraße",
-            "anzahl": 7,
+            "anzahl": 6,
             "bezeichnungBotanisch": "Castanea sativa",
             "bezeichnungDeutsch": "Eßkastanie"
         },
@@ -1747,7 +1747,7 @@
         },
         {
             "objekt": "Buschfeldstraße",
-            "anzahl": 4,
+            "anzahl": 3,
             "bezeichnungBotanisch": "Sophora japonica",
             "bezeichnungDeutsch": "Schnurbaum"
         },
@@ -1855,7 +1855,7 @@
         },
         {
             "objekt": "Forsthausstraße",
-            "anzahl": 8,
+            "anzahl": 7,
             "bezeichnungBotanisch": "Crataegus lavallei 'Carrierei'",
             "bezeichnungDeutsch": "Apfeldorn"
         },
@@ -2074,9 +2074,496 @@
             "anzahl": 1,
             "bezeichnungBotanisch": "Laburnum x watereri 'Vossii'",
             "bezeichnungDeutsch": "Goldregen"
+        },
+        {
+            "objekt": "Lemsdorfer Friedhof/Kapellenbereich",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Malus 'Red Splendor'",
+            "bezeichnungDeutsch": "Zierapfel"
+        },
+        {
+            "objekt": "Liebigstraße",
+            "anzahl": 3,
+            "bezeichnungBotanisch": "Carpinus betulus 'Frans Fontaine'",
+            "bezeichnungDeutsch": "Schmale Säulen-Hainbuche"
+        },
+        {
+            "objekt": "Liebknechtstraße, Töpferspark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Sophora japonica 'Regent'",
+            "bezeichnungDeutsch": "Schnurbaum"
+        },
+        {
+            "objekt": "Lindenstraße",
+            "anzahl": 3,
+            "bezeichnungBotanisch": "Liquidambar styraciflua 'Moraine'",
+            "bezeichnungDeutsch": "Amberbaum"
+        },
+        {
+            "objekt": "Lorenzweg",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Malus 'Red Sentinal'",
+            "bezeichnungDeutsch": "Zierapfel"
+        },
+        {
+            "objekt": "Lüneburger Straße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Ulmus Resista® Rebella",
+            "bezeichnungDeutsch": "Resista-Ulme"
+        },
+        {
+            "objekt": "Magdeburger Ring / Albert-Vater Straße",
+            "anzahl": 5,
+            "bezeichnungBotanisch": "Betula pendula 'Laciniata'",
+            "bezeichnungDeutsch": "Geschlitztblättrige Birke"
+        },
+        {
+            "objekt": "Magdeburger Ring / Albert-Vater Straße",
+            "anzahl": 7,
+            "bezeichnungBotanisch": "Crataegus monogyna 'Stricta'",
+            "bezeichnungDeutsch": "Säulenförmiger Weißdorn"
+        },
+        {
+            "objekt": "Magdeburger Ring / Albert-Vater Straße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Tilia cordata 'Greenspire'",
+            "bezeichnungDeutsch": "Winterlinde"
+        },
+        {
+            "objekt": "Milchweg, Hundewiese",
+            "anzahl": 8,
+            "bezeichnungBotanisch": "Sorbus intermedia 'Brouwers'",
+            "bezeichnungDeutsch": "Schwedische Mehlbeere"
+        },
+        {
+            "objekt": "Neuer Renneweg",
+            "anzahl": 23,
+            "bezeichnungBotanisch": "Acer opalus",
+            "bezeichnungDeutsch": "Schneeballblättriger Ahorn"
+        },
+        {
+            "objekt": "Neuer Renneweg",
+            "anzahl": 13,
+            "bezeichnungBotanisch": "Alnus glutinosa",
+            "bezeichnungDeutsch": "Schwarz-Erle"
+        },
+        {
+            "objekt": "Neuer Renneweg",
+            "anzahl": 13,
+            "bezeichnungBotanisch": "Morus alba",
+            "bezeichnungDeutsch": "Weißer Maulbeerbaum"
+        },
+        {
+            "objekt": "Neuer Renneweg",
+            "anzahl": 5,
+            "bezeichnungBotanisch": "Tilia cordata 'Rancho'",
+            "bezeichnungDeutsch": "Kleinkronige Winterlinde"
+        },
+        {
+            "objekt": "Neuer Renneweg",
+            "anzahl": 14,
+            "bezeichnungBotanisch": "Ulmus Resista® Rebona",
+            "bezeichnungDeutsch": "Resista-Ulme"
+        },
+        {
+            "objekt": "Nordpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Acer platanoides 'Eurostar'",
+            "bezeichnungDeutsch": "Spitzahorn"
+        },
+        {
+            "objekt": "Nordpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Euodia hupehensis",
+            "bezeichnungDeutsch": "Samtartige Stinkesche (Bienenbaum)"
+        },
+        {
+            "objekt": "Nordpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Ginkgo biloba",
+            "bezeichnungDeutsch": "Ginkgo"
+        },
+        {
+            "objekt": "Nordpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Koelreuteria paniculata",
+            "bezeichnungDeutsch": "Blasenbaum"
+        },
+        {
+            "objekt": "Nordpark",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Ostrya carpinifolia",
+            "bezeichnungDeutsch": "Hopfenbuche"
+        },
+        {
+            "objekt": "Nordpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Sophora japonica 'Regent'",
+            "bezeichnungDeutsch": "Schnurbaum"
+        },
+        {
+            "objekt": "Nordpark",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Tilia cordata",
+            "bezeichnungDeutsch": "Winterlinde"
+        },
+        {
+            "objekt": "Nordpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Ulmus Resista® Rebona",
+            "bezeichnungDeutsch": "Resista-Ulme"
+        },
+        {
+            "objekt": "Olvenstedter Chaussee",
+            "anzahl": 12,
+            "bezeichnungBotanisch": "Robinia pseudoacacia 'Nyirsegi'",
+            "bezeichnungDeutsch": "Scheinakazie"
+        },
+        {
+            "objekt": "Olvenstedter Chaussee",
+            "anzahl": 11,
+            "bezeichnungBotanisch": "Tilia tomentosa 'Szeleste'",
+            "bezeichnungDeutsch": "Silberlinde"
+        },
+        {
+            "objekt": "Olvenstedter Graseweg",
+            "anzahl": 24,
+            "bezeichnungBotanisch": "Acer platanoides 'Columnare'",
+            "bezeichnungDeutsch": "Säulenförmiger Spitzahorn"
+        },
+        {
+            "objekt": "Olvenstedter Graseweg",
+            "anzahl": 3,
+            "bezeichnungBotanisch": "Fraxinus pennsylvanica 'Summit'",
+            "bezeichnungDeutsch": "Amerikanische Esche"
+        },
+        {
+            "objekt": "Olvenstedter Graseweg",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Tilia cordata 'Greenspire'",
+            "bezeichnungDeutsch": "Winterlinde"
+        },
+        {
+            "objekt": "Ostfriedhof, Feld IV",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Paulownia tomentosa",
+            "bezeichnungDeutsch": "Blauglockenbaum"
+        },
+        {
+            "objekt": "Otto-Richter-Straße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Amelanchier arborea 'Robin Hill'",
+            "bezeichnungDeutsch": "Schnee-Felsenbirne"
+        },
+        {
+            "objekt": "Radweg Calenberge-Randau",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Junglans regia",
+            "bezeichnungDeutsch": "Walnuss"
+        },
+        {
+            "objekt": "Radweg Calenberge-Randau",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Salix alba",
+            "bezeichnungDeutsch": "Silberweide"
+        },
+        {
+            "objekt": "Radweg Calenberge-Randau",
+            "anzahl": 6,
+            "bezeichnungBotanisch": "Sorbus aucuparia",
+            "bezeichnungDeutsch": "Eberesche"
+        },
+        {
+            "objekt": "Schneidersgarten",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Acer saccharinum",
+            "bezeichnungDeutsch": "Silberahorn"
+        },
+        {
+            "objekt": "Schroteanlagen",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Euodia hupehensis",
+            "bezeichnungDeutsch": "Samtartige Stinkesche (Bienenbaum)"
+        },
+        {
+            "objekt": "Schroteanlagen",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Ginkgo biloba",
+            "bezeichnungDeutsch": "Ginkgo"
+        },
+        {
+            "objekt": "Schroteanlagen",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Malus 'Red Splendor'",
+            "bezeichnungDeutsch": "Zierapfel"
+        },
+        {
+            "objekt": "Schroteanlagen (Europaring bis Dehmbergstraße)",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Acer monspessulanum",
+            "bezeichnungDeutsch": "Burgenahorn"
+        },
+        {
+            "objekt": "Seehäuser Straße",
+            "anzahl": 78,
+            "bezeichnungBotanisch": "Populus nigra Italica",
+            "bezeichnungDeutsch": "Pyramidenpappel"
+        },
+        {
+            "objekt": "Sohlener Friedhof",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Prunus serrulata 'Kanzan'",
+            "bezeichnungDeutsch": "Nelkenkirsche"
+        },
+        {
+            "objekt": "Spielplatz am Aussichtsturm, Stadtpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Quercus cerris",
+            "bezeichnungDeutsch": "Zerreiche"
+        },
+        {
+            "objekt": "Spielplatz am Aussichtsturm, Stadtpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Ulmus Resista® Rebona",
+            "bezeichnungDeutsch": "Resista-Ulme"
+        },
+        {
+            "objekt": "Spielplatz Hohepfortestraße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Sophora japonica 'Regent'",
+            "bezeichnungDeutsch": "Schnurbaum"
+        },
+        {
+            "objekt": "Spielplatz Motzstraße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Alnus x spaethii",
+            "bezeichnungDeutsch": "Purpur-Erle"
+        },
+        {
+            "objekt": "Spielplatz Motzstraße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Tilia cordata 'Roelvo'",
+            "bezeichnungDeutsch": "schmalkronige Winterlinde 'Roelvo'"
+        },
+        {
+            "objekt": "schmalkronige Winterlinde 'Roelvo'",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Magnolia kobus",
+            "bezeichnungDeutsch": "Kobushi-Magnolie"
+        },
+        {
+            "objekt": "Stadtpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Aesculus carnea 'Briotii'",
+            "bezeichnungDeutsch": "Scharlach-Roßkastanie"
+        },
+        {
+            "objekt": "Stadtpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Alnus x spaethii",
+            "bezeichnungDeutsch": "Purpur-Erle"
+        },
+        {
+            "objekt": "Stadtpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Quercus rubra",
+            "bezeichnungDeutsch": "Amerikanische Roteiche"
+        },
+        {
+            "objekt": "Stadtpark",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Liquidambar styraciflua",
+            "bezeichnungDeutsch": "Amberbaum"
+        },
+        {
+            "objekt": "Streuobstwiese Pechau",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Malus 'Elstar'",
+            "bezeichnungDeutsch": "Apfel in Sorten"
+        },
+        {
+            "objekt": "Streuobstwiese Pechau",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Malus 'Gravensteiner'",
+            "bezeichnungDeutsch": "Apfel in Sorten"
+        },
+        {
+            "objekt": "Streuobstwiese Pechau",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Malus 'James Grieve'",
+            "bezeichnungDeutsch": "Apfel in Sorten"
+        },
+        {
+            "objekt": "Südfriedhof",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Metasequoia glyptostroboides",
+            "bezeichnungDeutsch": "Urweltmammutbaum"
+        },
+        {
+            "objekt": "Südfriedhof",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Ulmus x hollandica 'Wredei'",
+            "bezeichnungDeutsch": "Goldulme"
+        },
+        {
+            "objekt": "Südfriedhof (gegenüber UGA)",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Cornus kousa 'Satomi'",
+            "bezeichnungDeutsch": "Chinesischer Blumenhartriegel"
+        },
+        {
+            "objekt": "Südfriedhof UGA",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Magnolia 'Galaxy'",
+            "bezeichnungDeutsch": "Purpur-Magnolie"
+        },
+        {
+            "objekt": "Südfriedhof UGA",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Malus 'Red Splendor'",
+            "bezeichnungDeutsch": "Zierapfel"
+        },
+        {
+            "objekt": "Südfriedhof W XI/L",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Davidia involucrata var. Vilmoriniana",
+            "bezeichnungDeutsch": "Taschentuchbaum"
+        },
+        {
+            "objekt": "Südfriedhof, Feld XI",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Malus 'Cox Orange'",
+            "bezeichnungDeutsch": "Apfel in Sorten"
+        },
+        {
+            "objekt": "Südfriedhof, Naturgrabfeld, GAW III",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Malus 'Red Splendor'",
+            "bezeichnungDeutsch": "Zierapfel"
+        },
+        {
+            "objekt": "Südfriedhof, Naturgrabfeld, Grabnr. 8",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Prunus serrulata 'Kanzan'",
+            "bezeichnungDeutsch": "Nelkenkirsche"
+        },
+        {
+            "objekt": "Südfriedhof-Naturgrabfeld",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Paulownia tomentosa",
+            "bezeichnungDeutsch": "Blauglockenbaum"
+        },
+        {
+            "objekt": "Südfriedhof-Naturgrabfeld",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Sorbus aucuparia",
+            "bezeichnungDeutsch": "Eberesche"
+        },
+        {
+            "objekt": "Südfriedhof-UGA",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Prunus serulata 'Amanogawa",
+            "bezeichnungDeutsch": "Säulenförmige Zierkirsche"
+        },
+        {
+            "objekt": "Tessenowstraße Parkplatz",
+            "anzahl": 4,
+            "bezeichnungBotanisch": "Pinus sylvestris 'Fastigiata'",
+            "bezeichnungDeutsch": "Säulenkiefer"
+        },
+        {
+            "objekt": "Thomas-Müntzer-Straße",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Acer platanoides 'Eurostar'",
+            "bezeichnungDeutsch": "Spitzahorn"
+        },
+        {
+            "objekt": "Turmstraße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Magnolia kobus",
+            "bezeichnungDeutsch": "Kobushi-Magnolie"
+        },
+        {
+            "objekt": "Versuchsgarten Fahlberg-List",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Malus 'Gravensteiner'",
+            "bezeichnungDeutsch": "Apfel in Sorten"
+        },
+        {
+            "objekt": "Weinbrennerallee",
+            "anzahl": 2,
+            "bezeichnungBotanisch": "Crataegus lavallei 'Carrierei'",
+            "bezeichnungDeutsch": "Apfeldorn"
+        },
+        {
+            "objekt": "Weinbrennerallee",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Malus floribunda",
+            "bezeichnungDeutsch": "Zierapfel"
+        },
+        {
+            "objekt": "Werner-Seelenbinder-Straße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Magnolia kobus",
+            "bezeichnungDeutsch": "Kobushi-Magnolie"
+        },
+        {
+            "objekt": "Westelbischer Radweg",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Populus nigra",
+            "bezeichnungDeutsch": "Schwarzpappel"
+        },
+        {
+            "objekt": "Westfriedhof",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Amelanchier lamarkii",
+            "bezeichnungDeutsch": "Kupfer-Felsenbirne"
+        },
+        {
+            "objekt": "Westfriedhof",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Fagus sylvatica 'Purpurea Pendula'",
+            "bezeichnungDeutsch": "Schwarzrote Hängebuche"
+        },
+        {
+            "objekt": "Westfriedhof",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Malus 'Red Splendor'",
+            "bezeichnungDeutsch": "Zierapfel"
+        },
+        {
+            "objekt": "Westfriedhof UGA \"Flamme\"",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Malus 'Red Splendor'",
+            "bezeichnungDeutsch": "Zierapfel"
+        },
+        {
+            "objekt": "Westfriedhof, Wiese zwischen Lindenweg und Feld XVI",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Sorbus aucuparia",
+            "bezeichnungDeutsch": "Eberesche"
+        },
+        {
+            "objekt": "Westfriedhof/ GAW XVIII/II",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Crataegus lavallei 'Carrierei'",
+            "bezeichnungDeutsch": "Apfeldorn"
+        },
+        {
+            "objekt": "westlich Friedhof / Oebisfelder Straße",
+            "anzahl": 9,
+            "bezeichnungBotanisch": "Quercus robur",
+            "bezeichnungDeutsch": "Stieleiche"
+        },
+        {
+            "objekt": "Winckelmannstraße",
+            "anzahl": 1,
+            "bezeichnungBotanisch": "Tilia flavescens 'Glenleven'",
+            "bezeichnungDeutsch": "Kegellinde"
         }
     ],
     "Nachpflanzungen2018": [],
     "Nachpflanzungen2019": [],
     "Nachpflanzungen2020": []
 }
+
